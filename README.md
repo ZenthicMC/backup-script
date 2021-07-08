@@ -66,35 +66,24 @@ leave empty -> enter
 
 n -> enter
 
-#
 # USE AUTO CONFIG (no)
-#
 
 n -> enter
 
-#
 # YOU WILL GET A LINK TO LINK YOUR GOOGLE DRIVE TO CLONE
 # OPEN THAT LINK TO YOUR BROWSER
 # USE CTRL + X TO COPY INSTEAD OF CTRL + C
-#
 # THEN COPY YOUR CODE INTO YOUR RCLONE SETUP
-#
 
-#
 # CONFIGURE THIS AS A TEAM DRIVE (no)
-#
 
 n -> enter
 
-#
 # FINAL CONFIRMATION (yes)
-#
 
 y -> enter
 
-#
 # QUIT RCLONE SETUP
-#
 
 q -> enter
 
